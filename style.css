@@ -1,0 +1,13 @@
+
+.image{
+    
+    background-color:bisque;
+    
+}
+
+.cachorros{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
